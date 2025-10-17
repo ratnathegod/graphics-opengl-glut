@@ -7,5 +7,3 @@ This repository showcases 2D and 3D rendering techniques, hierarchical modeling,
 - [OpenGL](https://www.opengl.org/) — 3D graphics rendering
 - [GLUT](https://www.opengl.org/resources/libraries/glut/) — Utility toolkit for managing windows and events
 - C/C++
-- Python
-
